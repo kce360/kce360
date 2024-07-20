@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate data enthusiast and current Master's student in Business Analytics at LUT University. My journey has taken me through a Bachelor's degree in Digital International Business from Xamk, and I've racked up over 100 credits in technical disciplines like programming, database management, SQL, software development, project management, Power BI, and statistics from Xamk UAS, Karelia UAS, and Aalto University (Finland).
+I'm a passionate data enthusiast and current Master's student in Business Analytics at LUT University. My journey has taken me through a Bachelor's degree in Digital International Business from Xamk, and I've racked up over 100 credits in technical disciplines like programming, database management, SQL, software development, project management, Power BI, and statistics from Xamk, Karelia, JAMK and Metropolia UASs (Finland).
 
 ## Projects and Skills
 
